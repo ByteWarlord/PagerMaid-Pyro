@@ -25,7 +25,8 @@ Python 版本查询： Python3 -V
 ![image](https://github.com/ByteWarlord/PagerMaid-Pyro/assets/156203171/e68bdd7b-3e60-49f4-b1fa-b203e0d966d2)
 ## 拉取项目
 进入/var/lib路径下`cd /var/lib`
-拉取项目到该目录下，并命名为papyro1 `git clone https://github.com/TeamPGM/PagerMaid-Pyro.git papyro1 && papyro1`
+拉取项目到该目录下，并命名为papyro1
+`git clone https://github.com/TeamPGM/PagerMaid-Pyro.git papyro1 && cd papyro1`
 ## 安装软件包
 
 ## 申请Telegram API
